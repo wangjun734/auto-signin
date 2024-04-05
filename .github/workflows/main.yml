@@ -34,4 +34,4 @@ jobs:
           TOKEN: ${{ secrets.TOKEN }}
         run: |
           npm install
-          node xixunyun-main/app.js
+          node app.js
